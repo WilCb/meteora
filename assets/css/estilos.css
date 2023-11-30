@@ -1,0 +1,25 @@
+.texto-menor {
+    font-size: 13px;
+}
+.divs-facilidade {
+    width: 325px;
+}
+
+.div-novidades {
+    width: 325px;
+}
+.verde-limao {
+    color: #DAFF01;
+}
+.btn-lilas, .btn-lilas:hover {
+    background-color: #9353FF;
+}
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
